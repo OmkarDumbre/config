@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related PROD APIs "
   contactDetails:
-    name: "Omkar Dumbre - Product Owner"
-    email: "aishwarya@eazybank.com"
+    name: "Reine Aishwarya - Product Owner"
+    email: "{cipher}e342079884c9d71ef08cb8900e889553f69b7e0aff5ae763315b6af599b85c91e180da85befb06cd73f48f59f3d52594"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
